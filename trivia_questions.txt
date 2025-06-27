@@ -1,0 +1,699 @@
+1. Which planet is known as the Red Planet?
+A) Earth
+B) Mars
+C) Jupiter
+D) Venus
+Answer: B) Mars
+
+2. What is the capital of France?
+A) Berlin
+B) Madrid
+C) Paris
+D) Rome
+Answer: C) Paris
+
+3. Who wrote 'Romeo and Juliet'?
+A) Mark Twain
+B) William Shakespeare
+C) Charles Dickens
+D) Jane Austen
+Answer: B) William Shakespeare
+
+4. What is the largest mammal in the world?
+A) Elephant
+B) Blue Whale
+C) Giraffe
+D) Great White Shark
+Answer: B) Blue Whale
+
+5. Which element has the chemical symbol 'O'?
+A) Oxygen
+B) Gold
+C) Silver
+D) Iron
+Answer: A) Oxygen
+
+6. In which year did the Titanic sink?
+A) 1905
+B) 1912
+C) 1920
+D) 1935
+Answer: B) 1912
+
+7. What is the capital of Japan?
+A) Beijing
+B) Seoul
+C) Tokyo
+D) Bangkok
+Answer: C) Tokyo
+
+8. Who painted the Mona Lisa?
+A) Vincent van Gogh
+B) Pablo Picasso
+C) Leonardo da Vinci
+D) Michelangelo
+Answer: C) Leonardo da Vinci
+
+9. Which gas is most abundant in the Earth's atmosphere?
+A) Oxygen
+B) Hydrogen
+C) Nitrogen
+D) Carbon Dioxide
+Answer: C) Nitrogen
+
+10. What is the hardest natural substance on Earth?
+A) Gold
+B) Iron
+C) Diamond
+D) Platinum
+Answer: C) Diamond
+
+11. Which country is the largest by area?
+A) Canada
+B) China
+C) Russia
+D) USA
+Answer: C) Russia
+
+12. What is the smallest prime number?
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: C) 2
+
+13. Who developed the theory of relativity?
+A) Isaac Newton
+B) Albert Einstein
+C) Galileo Galilei
+D) Stephen Hawking
+Answer: B) Albert Einstein
+
+14. What is the largest planet in our solar system?
+A) Earth
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: C) Jupiter
+
+15. What is the longest river in the world?
+A) Amazon
+B) Nile
+C) Yangtze
+D) Mississippi
+Answer: B) Nile
+
+16. Which element is said to keep bones strong?
+A) Iron
+B) Calcium
+C) Sodium
+D) Potassium
+Answer: B) Calcium
+
+17. What is the tallest mountain in the world?
+A) K2
+B) Kangchenjunga
+C) Everest
+D) Kilimanjaro
+Answer: C) Everest
+
+18. Who was the first President of the United States?
+A) Thomas Jefferson
+B) Abraham Lincoln
+C) George Washington
+D) John Adams
+Answer: C) George Washington
+
+19. Which country is known as the Land of the Rising Sun?
+A) China
+B) Japan
+C) South Korea
+D) Thailand
+Answer: B) Japan
+
+20. Which organ in the human body is primarily responsible for filtering blood?
+A) Heart
+B) Liver
+C) Kidneys
+D) Lungs
+Answer: C) Kidneys
+
+21. What is the primary language spoken in Brazil?
+A) Spanish
+B) Portuguese
+C) French
+D) Italian
+Answer: B) Portuguese
+
+22. What is the currency of the United Kingdom?
+A) Dollar
+B) Euro
+C) Pound Sterling
+D) Yen
+Answer: C) Pound Sterling
+
+23. What is the process by which plants make food using sunlight?
+A) Respiration
+B) Digestion
+C) Photosynthesis
+D) Fermentation
+Answer: C) Photosynthesis
+
+24. Who wrote 'Pride and Prejudice'?
+A) Emily Brontë
+B) Jane Austen
+C) Charles Dickens
+D) George Eliot
+Answer: B) Jane Austen
+
+25. Which planet is closest to the sun?
+A) Earth
+B) Mars
+C) Mercury
+D) Venus
+Answer: C) Mercury
+
+26. What is the largest ocean on Earth?
+A) Atlantic Ocean
+B) Indian Ocean
+C) Arctic Ocean
+D) Pacific Ocean
+Answer: D) Pacific Ocean
+
+27. Which country is the origin of the Olympic Games?
+A) Italy
+B) Greece
+C) France
+D) Egypt
+Answer: B) Greece
+
+28. What is the chemical formula for water?
+A) CO2
+B) H2O
+C) O2
+D) NaCl
+Answer: B) H2O
+
+29. Who was the first man to walk on the moon?
+A) Yuri Gagarin
+B) Buzz Aldrin
+C) Neil Armstrong
+D) Michael Collins
+Answer: C) Neil Armstrong
+
+30. What is the smallest continent by land area?
+A) Europe
+B) Australia
+C) Antarctica
+D) South America
+Answer: B) Australia
+
+31. What is the largest desert in the world?
+A) Sahara
+B) Gobi
+C) Kalahari
+D) Arabian
+Answer: A) Sahara
+
+32. What is the fastest land animal?
+A) Cheetah
+B) Lion
+C) Gazelle
+D) Tiger
+Answer: A) Cheetah
+
+33. Which element has the atomic number 1?
+A) Helium
+B) Hydrogen
+C) Lithium
+D) Beryllium
+Answer: B) Hydrogen
+
+34. What is the longest bone in the human body?
+A) Femur
+B) Humerus
+C) Tibia
+D) Fibula
+Answer: A) Femur
+
+35. Who is the author of the Harry Potter series?
+A) J.R.R. Tolkien
+B) George R.R. Martin
+C) J.K. Rowling
+D) Suzanne Collins
+Answer: C) J.K. Rowling
+
+36. What is the main ingredient in guacamole?
+A) Tomato
+B) Onion
+C) Avocado
+D) Cucumber
+Answer: C) Avocado
+
+37. In what year did World War II end?
+A) 1939
+B) 1941
+C) 1945
+D) 1950
+Answer: C) 1945
+
+38. What is the smallest unit of matter?
+A) Molecule
+B) Atom
+C) Electron
+D) Proton
+Answer: B) Atom
+
+39. Which country hosted the 2016 Summer Olympics?
+A) China
+B) Brazil
+C) Japan
+D) UK
+Answer: B) Brazil
+
+40. What is the highest-grossing film of all time (as of 2023)?
+A) Titanic
+B) Avatar
+C) Avengers: Endgame
+D) Star Wars: The Force Awakens
+Answer: C) Avengers: Endgame
+
+41. Which organ is responsible for pumping blood throughout the human body?
+A) Brain
+B) Lungs
+C) Heart
+D) Liver
+Answer: C) Heart
+
+42. What is the chemical symbol for gold?
+A) Au
+B) Ag
+C) Gd
+D) Go
+Answer: A) Au
+
+43. What is the name of the largest rainforest in the world?
+A) Congo Rainforest
+B) Amazon Rainforest
+C) Daintree Rainforest
+D) Valdivian Rainforest
+Answer: B) Amazon Rainforest
+
+44. Who was the first woman to win a Nobel Prize?
+A) Marie Curie
+B) Mother Teresa
+C) Malala Yousafzai
+D) Rosalind Franklin
+Answer: A) Marie Curie
+
+45. What is the primary component of the sun?
+A) Oxygen
+B) Nitrogen
+C) Hydrogen
+D) Helium
+Answer: C) Hydrogen
+
+46. What is the name of the longest river in the United States?
+A) Mississippi River
+B) Missouri River
+C) Colorado River
+D) Ohio River
+Answer: B) Missouri River
+
+47. Which country is known for inventing the pizza?
+A) Spain
+B) France
+C) Italy
+D) Greece
+Answer: C) Italy
+
+48. What is the most spoken language in the world?
+A) English
+B) Spanish
+C) Mandarin Chinese
+D) Hindi
+Answer: C) Mandarin Chinese
+
+49. Which planet has the most moons?
+A) Mars
+B) Jupiter
+C) Saturn
+D) Uranus
+Answer: B) Jupiter
+
+50. What is the powerhouse of the cell?
+A) Nucleus
+B) Ribosome
+C) Mitochondria
+D) Endoplasmic Reticulum
+Answer: C) Mitochondria
+
+51. What is the chemical formula for table salt?
+A) NaCl
+B) KCl
+C) MgCl2
+D) CaCl2
+Answer: A) NaCl
+
+52. Who wrote 'To Kill a Mockingbird'?
+A) F. Scott Fitzgerald
+B) Harper Lee
+C) Mark Twain
+D) John Steinbeck
+Answer: B) Harper Lee
+
+53. What is the smallest country in the world?
+A) Monaco
+B) Vatican City
+C) San Marino
+D) Liechtenstein
+Answer: B) Vatican City
+
+54. Which planet is known for its rings?
+A) Jupiter
+B) Mars
+C) Neptune
+D) Saturn
+Answer: D) Saturn
+
+55. Who painted the Sistine Chapel ceiling?
+A) Leonardo da Vinci
+B) Michelangelo
+C) Raphael
+D) Donatello
+Answer: B) Michelangelo
+
+56. What is the largest island in the world?
+A) Borneo
+B) Madagascar
+C) Greenland
+D) New Guinea
+Answer: C) Greenland
+
+57. Which gas do plants absorb from the atmosphere?
+A) Oxygen
+B) Carbon Dioxide
+C) Nitrogen
+D) Methane
+Answer: B) Carbon Dioxide
+
+58. Who was the first person to win two Nobel Prizes?
+A) Linus Pauling
+B) Albert Einstein
+C) Marie Curie
+D) Ernest Rutherford
+Answer: C) Marie Curie
+
+59. What is the main ingredient in traditional Japanese miso soup?
+A) Seaweed
+B) Tofu
+C) Miso paste
+D) Fish stock
+Answer: C) Miso paste
+
+60. Which country has the longest coastline in the world?
+A) Australia
+B) Russia
+C) Canada
+D) Indonesia
+Answer: C) Canada
+
+61. What is the primary ingredient in hummus?
+A) Lentils
+B) Chickpeas
+C) Peas
+D) Beans
+Answer: B) Chickpeas
+
+62. What is the capital of Canada?
+A) Toronto
+B) Vancouver
+C) Ottawa
+D) Montreal
+Answer: C) Ottawa
+
+63. Who discovered penicillin?
+A) Louis Pasteur
+B) Alexander Fleming
+C) Marie Curie
+D) Isaac Newton
+Answer: B) Alexander Fleming
+
+64. What is the currency of Japan?
+A) Won
+B) Yen
+C) Yuan
+D) Dollar
+Answer: B) Yen
+
+65. Which is the largest land animal?
+A) Elephant
+B) Rhino
+C) Hippopotamus
+D) Giraffe
+Answer: A) Elephant
+
+66. What is the most widely consumed alcoholic beverage in the world?
+A) Wine
+B) Beer
+C) Vodka
+D) Whiskey
+Answer: B) Beer
+
+67. What is the capital of Australia?
+A) Sydney
+B) Melbourne
+C) Canberra
+D) Perth
+Answer: C) Canberra
+
+68. What is the largest artery in the human body?
+A) Carotid
+B) Femoral
+C) Pulmonary
+D) Aorta
+Answer: D) Aorta
+
+69. Which country is known for the Eiffel Tower?
+A) Spain
+B) Italy
+C) France
+D) Germany
+Answer: C) France
+
+70. Which planet is known as the Morning Star?
+A) Mars
+B) Venus
+C) Mercury
+D) Jupiter
+Answer: B) Venus
+
+71. What is the main gas found in the air we breathe?
+A) Oxygen
+B) Carbon Dioxide
+C) Nitrogen
+D) Hydrogen
+Answer: C) Nitrogen
+
+72. Who is known as the Father of Computers?
+A) Bill Gates
+B) Steve Jobs
+C) Charles Babbage
+D) Alan Turing
+Answer: C) Charles Babbage
+
+73. Which organ in the human body produces insulin?
+A) Liver
+B) Pancreas
+C) Kidneys
+D) Spleen
+Answer: B) Pancreas
+
+74. What is the chemical symbol for potassium?
+A) P
+B) K
+C) Pt
+D) Po
+Answer: B) K
+
+75. What is the capital of Germany?
+A) Munich
+B) Frankfurt
+C) Berlin
+D) Hamburg
+Answer: C) Berlin
+
+76. What is the process by which a caterpillar turns into a butterfly?
+A) Metamorphosis
+B) Photosynthesis
+C) Pollination
+D) Germination
+Answer: A) Metamorphosis
+
+77. What is the largest freshwater lake in the world by volume?
+A) Lake Superior
+B) Lake Victoria
+C) Lake Baikal
+D) Lake Michigan
+Answer: C) Lake Baikal
+
+78. Which country gifted the Statue of Liberty to the United States?
+A) United Kingdom
+B) France
+C) Spain
+D) Italy
+Answer: B) France
+
+79. What is the main component of natural gas?
+A) Methane
+B) Ethane
+C) Propane
+D) Butane
+Answer: A) Methane
+
+80. Who is the author of 'The Catcher in the Rye'?
+A) J.D. Salinger
+B) F. Scott Fitzgerald
+C) Ernest Hemingway
+D) John Steinbeck
+Answer: A) J.D. Salinger
+
+81. What is the smallest particle of a chemical element?
+A) Molecule
+B) Atom
+C) Proton
+D) Electron
+Answer: B) Atom
+
+82. Which continent is the Sahara Desert located on?
+A) Asia
+B) North America
+C) Africa
+D) Australia
+Answer: C) Africa
+
+83. What is the speed of light in vacuum?
+A) 300,000 km/s
+B) 150,000 km/s
+C) 450,000 km/s
+D) 600,000 km/s
+Answer: A) 300,000 km/s
+
+84. Who was the first person to fly solo across the Atlantic Ocean?
+A) Amelia Earhart
+B) Charles Lindbergh
+C) Howard Hughes
+D) Orville Wright
+Answer: B) Charles Lindbergh
+
+85. What is the largest landlocked country by area?
+A) Kazakhstan
+B) Mongolia
+C) Chad
+D) Bolivia
+Answer: A) Kazakhstan
+
+86. What is the most common blood type in humans?
+A) A
+B) B
+C) AB
+D) O
+Answer: D) O
+
+87. Which planet is known for its Great Red Spot?
+A) Jupiter
+B) Saturn
+C) Neptune
+D) Uranus
+Answer: A) Jupiter
+
+88. What is the currency of India?
+A) Rupee
+B) Yen
+C) Peso
+D) Dollar
+Answer: A) Rupee
+
+89. What is the name of the first artificial satellite launched into space?
+A) Apollo 11
+B) Sputnik 1
+C) Voyager 1
+D) Hubble
+Answer: B) Sputnik 1
+
+90. Who wrote '1984' and 'Animal Farm'?
+A) Aldous Huxley
+B) George Orwell
+C) Ray Bradbury
+D) Kurt Vonnegut
+Answer: B) George Orwell
+
+91. What is the longest wall in the world?
+A) Berlin Wall
+B) Great Wall of China
+C) Hadrian's Wall
+D) Western Wall
+Answer: B) Great Wall of China
+
+92. Who was the first woman to fly solo across the Atlantic Ocean?
+A) Harriet Quimby
+B) Amelia Earhart
+C) Jacqueline Cochran
+D) Bessie Coleman
+Answer: B) Amelia Earhart
+
+93. What is the largest volcano in the solar system?
+A) Mauna Loa
+B) Mount Everest
+C) Olympus Mons
+D) Kilauea
+Answer: C) Olympus Mons
+
+94. Which country is known for the invention of paper?
+A) Egypt
+B) China
+C) Greece
+D) India
+Answer: B) China
+
+95. What is the primary ingredient in bread?
+A) Sugar
+B) Salt
+C) Flour
+D) Yeast
+Answer: C) Flour
+
+96. Who developed the polio vaccine?
+A) Louis Pasteur
+B) Jonas Salk
+C) Alexander Fleming
+D) Edward Jenner
+Answer: B) Jonas Salk
+
+97. What is the highest mountain in North America?
+A) Mount McKinley (Denali)
+B) Mount Whitney
+C) Mount Rainier
+D) Mount Elbert
+Answer: A) Mount McKinley (Denali)
+
+98. Which organ in the human body is responsible for detoxifying chemicals?
+A) Kidneys
+B) Liver
+C) Lungs
+D) Stomach
+Answer: B) Liver
+
+99. What is the main ingredient in traditional Italian pesto sauce?
+A) Basil
+B) Parsley
+C) Cilantro
+D) Rosemary
+Answer: A) Basil
+
+100. Which planet is known as the Earth's twin?
+A) Mars
+B) Jupiter
+C) Venus
+D) Mercury
+Answer: C) Venus
